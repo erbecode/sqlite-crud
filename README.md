@@ -6,7 +6,7 @@ Code terdiri dari:
 Code ini dimuat pada Folder /src/package name/
 
 Tambahan lain:
-AndroidManifest.xmml
+1. AndroidManifest.xml
 
 
 
